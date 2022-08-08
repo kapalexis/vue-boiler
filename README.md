@@ -1,11 +1,10 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple vue template with pinia, clickaway and basic router config with child components
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
@@ -34,6 +33,3 @@ npm run build
 npm run lint
 ```
 # vue-boiler-v1
-# vue-boiler-v1
-# vue-boiler
-# vue-boiler
