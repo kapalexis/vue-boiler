@@ -1,6 +1,6 @@
 # vue-project
 
-Simple vue template with pinia, clickaway and basic router config with child components
+Simple vue template with pinia, clickaway, tailwind, daisyui and basic router config with child components
 
 ## Recommended IDE Setup
 
